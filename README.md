@@ -4,8 +4,8 @@ In this project we aim to address some of the questions with regard to Covid-19.
 
 
 ## Questions:
-1) do death people have a higher mortality rate?
-2) are male more likely to die from Covid-19?
+1) Do death people have a higher mortality rate?
+2) Are male more likely to die from Covid-19?
 
 
 ## methodology 

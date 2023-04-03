@@ -8,7 +8,7 @@ In this project we aim to address some of the questions with regard to Covid-19.
 2) Are male more likely to die from Covid-19?
 
 
-## methodology 
+## Methodology 
 
 The t-test is being used in this code to determine whether there is a statistically significant difference in the mean age between individuals who died and those who did not.
 

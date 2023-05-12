@@ -1,5 +1,5 @@
 # Covid-19-Analysis
-## objective 
+## Objective 
 In this project we aim to address some of the questions with regard to Covid-19.
 
 

@@ -3,7 +3,7 @@
 In this project we aim to address some of the questions with regard to Covid-19.
 
 
-## Questions:
+## Questions
 1) Do death people have a higher mortality rate?
 2) Are male more likely to die from Covid-19?
 
@@ -18,5 +18,5 @@ By running the t-test with a significance level of 0.05, we are testing whether 
 
 If the p-value is less than the significance level (0.05), we can reject the null hypothesis and conclude that there is a statistically significant difference in the mean age between individuals who died and those who did not. If the p-value is greater than the significance level, we fail to reject the null hypothesis, which means that we do not have enough evidence to conclude that there is a significant difference in mean age between the two groups.
 
-## Libraries: 
+## Libraries 
 The Hmisc library is a package in R that provides various functions for data manipulation, analysis, and visualization. Some of the commonly used functions in this library include:

@@ -20,3 +20,23 @@ If the p-value is less than the significance level (0.05), we can reject the nul
 
 ## Libraries 
 The Hmisc library is a package in R that provides various functions for data manipulation, analysis, and visualization. Some of the commonly used functions in this library include:
+
+* ggplot2 - a powerful data visualization library that allows you to create a wide range of charts and graphs.
+
+* dplyr - a library for data manipulation and transformation, with functions for filtering, grouping, and summarizing data.
+
+* tidyr - a library for data cleaning and reshaping, with functions for converting data between wide and long formats.
+
+* caret - a library for machine learning, with functions for data preprocessing, model training, and model evaluation.
+
+* stringr - a library for working with strings, with functions for text manipulation and pattern matching.
+
+* lubridate - a library for working with dates and times, with functions for parsing, formatting, and manipulating date-time objects.
+
+* tidymodels - a collection of libraries for machine learning, including dplyr, ggplot2, and caret, with a consistent and unified syntax.
+
+* purrr - a library for functional programming, with functions for applying functions to data, iterating over data structures, and working with lists.
+
+* data.table - a library for data manipulation and aggregation, optimized for large datasets and fast performance.
+
+* magrittr - a library for creating pipelines of data transformations, with functions for chaining operations together and improving code readability.
